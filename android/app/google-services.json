@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211543398928",
+    "project_id": "fir-email-pass-auth-fd6ed",
+    "storage_bucket": "fir-email-pass-auth-fd6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211543398928:android:9a92f3244def038c0e8895",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_email_pass_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211543398928-rd76it18a585lg6ohf9d3gui34edutg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase_email_pass_auth",
+            "certificate_hash": "5ee49472e45fcb297714068a69dbf28edeee5a6d"
+          }
+        },
+        {
+          "client_id": "211543398928-j5ssiiroeijfqf0nv55mcl1sp73rcol6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo69hKpYuQ9m8InMdgGUOFi9EKAzve1VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211543398928-j5ssiiroeijfqf0nv55mcl1sp73rcol6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
